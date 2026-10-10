@@ -18,3 +18,4 @@ Soon...
 - On-Orbit Servicing
 - Safe and Reliable Space Autonomy
 - LLMs and VLMs for Satellite Operations
+- Physics-Informed AI
