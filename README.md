@@ -2,7 +2,7 @@
 
 I work on AI and flight dynamics for space autonomy.
 
-I'm a physicist (BSc, MSc) with an MSc in AI and 5+ years as an ML engineer, and I'm now bringing that experience to the space sector.
+I'm a physicist (combined BSc+MSc) with an MSc in AI and 5+ years as an ML engineer, and I'm now bringing that experience to the space sector.
 
 ---
 
@@ -12,11 +12,11 @@ Soon...
 
 ### 🧠 Other Projects
 
-- **[ppo-pirl-methods](https://github.com/ag-din/ppo-pirl-methods)** <sub>[2026, thesis] · [python, gymnasium, stable-baselines3, optuna, rliable]</sub><br>
+- **[ppo-pirl-methods](https://github.com/ag-din/ppo-pirl-methods)** <sub>[2026, MSc AI thesis] · [python, gymnasium, stable-baselines3, optuna, rliable]</sub><br>
   Controlled comparison of physics-prior integration strategies (reward shaping, state augmentation, and policy augmentation)
   in PPO-based reinforcement learning within standard Gymnasium environments.
   
-- **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018, thesis] · [python, keras]</sub><br>
+- **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018, BSc+MSc Physics thesis] · [python, keras]</sub><br>
   Comparative study of the effectiveness and efficiency of convolutional (CNN) vs. fully connected (FC)
   neural network architectures for image classification using the CIFAR-10 dataset.
 
