@@ -10,6 +10,13 @@ I'm a physicist (BSc, MSc) with an MSc in AI and 5+ years as an ML engineer, and
 
 Soon...
 
+### 🧠 Other Projects
+
+- **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018] · [python, keras]</sub><br>
+  Comparative study of the effectiveness and efficiency of convolutional (CNN) vs. fully connected (FC)
+  neural network architectures for image classification using the CIFAR-10 dataset.
+
+
 ### 🔭 What I'm interested in
 
 - Flight Dynamics
