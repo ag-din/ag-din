@@ -14,7 +14,7 @@ Soon...
 
 - **[ppo-pirl-methods](https://github.com/ag-din/ppo-pirl-methods)** <sub>[2026, MSc AI thesis] · [python, gymnasium, stable-baselines3, optuna, rliable]</sub><br>
   Controlled comparison of physics-prior integration strategies (reward shaping, state augmentation, and policy augmentation)
-  in PPO-based reinforcement learning within standard Gymnasium environments.
+  in PPO-based reinforcement learning within standard Gymnasium environments (classical control).
   
 - **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018, BSc+MSc Physics thesis] · [python, tensorflow, keras]</sub><br>
   Comparative study of the effectiveness and efficiency of convolutional (CNN) vs. fully connected (FC)
