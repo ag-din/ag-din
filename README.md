@@ -8,7 +8,7 @@ I'm a physicist (5 years degree, eq. combined BSc+MSc) with an MSc in AI and 5+ 
 
 ### 🛰️ Featured Projects
 
-- **[mpc-rendezvous](https://github.com/ag-din/mpc-rendezvous)** <sub>[2026] · [python]</sub><br>
+- **[mpc-rendezvous](https://github.com/ag-din/mpc-rendezvous)** <sub>[2026] · [python, cvxpy, scipy, clarabel]</sub><br>
   Comparative study of four MPC controllers (fixed-horizon QP and LP, variable-horizon VHLP and VHQP) for spacecraft rendezvous on a circular orbit. Fuel (total Δv), number of firings, settling time, final position error, visibility-cone violation (sampled and inter-sample) and computation time are measured in a nominal scenario (linear HCW plant) and in a more realistic Monte Carlo scenario (two-body dynamics, navigation noise, minimum impulse bit and execution errors).
 
 ### 🧠 Other Projects
