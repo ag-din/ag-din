@@ -16,7 +16,7 @@ Soon...
   Controlled comparison of physics-prior integration strategies (reward shaping, state augmentation, and policy augmentation)
   in PPO-based reinforcement learning within standard Gymnasium environments.
   
-- **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018, BSc+MSc Physics thesis] · [python, keras]</sub><br>
+- **[cifar10-architecture-benchmark](https://github.com/ag-din/cifar10-architecture-benchmark)** <sub>[2018, BSc+MSc Physics thesis] · [python, tensorflow, keras]</sub><br>
   Comparative study of the effectiveness and efficiency of convolutional (CNN) vs. fully connected (FC)
   neural network architectures for image classification using the CIFAR-10 dataset.
 
