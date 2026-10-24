@@ -2,7 +2,7 @@
 
 I work on AI and flight dynamics for space autonomy.
 
-I'm a physicist (combined BSc+MSc) with an MSc in AI and 5+ years as an ML engineer, and I'm now bringing that experience to the space sector.
+I'm a physicist (5 years degree, eq. combined BSc+MSc) with an MSc in AI and 5+ years as an ML engineer, and I'm now bringing that experience to the space sector.
 
 ---
 
