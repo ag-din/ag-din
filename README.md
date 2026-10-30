@@ -8,6 +8,9 @@ I'm a physicist (5 years degree, eq. combined BSc+MSc) with an MSc in AI and 5+ 
 
 ### 🛰️ Featured Projects
 
+- **[geo-refuel-mission-planner](https://github.com/ag-din/geo-refuel-mission-planner)** <sub>[2026] · [python, scipy, numpy]</sub><br>
+Simulation of a mission-planning strategy for a single servicer spacecraft refuelling multiple client satellites in GEO, servicing targets sequentially under time and fuel constraints. A Total Sweep Angle (TSA) heuristic validated against brute-force search.
+
 - **[mpc-rendezvous](https://github.com/ag-din/mpc-rendezvous)** <sub>[2026] · [python, cvxpy, scipy, clarabel]</sub><br>
   Comparative study of four MPC controllers (fixed-horizon QP and LP, variable-horizon VHLP and VHQP) for spacecraft rendezvous on a circular orbit. Fuel (total Δv), number of firings, settling time, final position error, visibility-cone violation (sampled and inter-sample) and computation time are measured in a nominal scenario (linear HCW plant) and in a more realistic Monte Carlo scenario (two-body dynamics, navigation noise, minimum impulse bit and execution errors).
 
